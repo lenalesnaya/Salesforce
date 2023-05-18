@@ -1,7 +1,7 @@
 ﻿using Core.Selenium;
 using OpenQA.Selenium;
 
-namespace Service.Selenium.Elements
+namespace SalesforceTesting.Service.Selenium.Elements
 {
     public class Button : Element
     {

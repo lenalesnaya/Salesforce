@@ -1,6 +1,6 @@
 ﻿using Core.Configurations.Abstractions;
 
-namespace Service.Configurations
+namespace SalesforceTesting.Service.Configurations
 {
     public class UrlsConfiguration : IConfiguration
     {

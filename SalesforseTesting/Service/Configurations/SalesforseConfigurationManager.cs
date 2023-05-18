@@ -1,6 +1,6 @@
 ﻿using Core.Configurations;
 
-namespace Service.Configurations
+namespace SalesforceTesting.Service.Configurations
 {
     public class SalesforseConfigurationManager : ConfigurationManager
     {
